@@ -1027,5 +1027,7 @@
         <file>modules/QtQuick/Controls/Styles/Material/TextFieldStyle.qml</file>
         <file>modules/QtQuick/Controls/Styles/Material/ToolBarStyle.qml</file>
         <file>modules/QtQuick/Controls/Styles/Material/ToolButtonStyle.qml</file>
+        <file>test.qml</file>
+        <file>images/raytracing.png</file>
     </qresource>
 </RCC>
